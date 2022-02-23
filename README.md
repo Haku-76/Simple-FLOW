@@ -1,5 +1,6 @@
 # Simple-FLOW
 IVRC2021に参加する作品です．
+IVRC2021の企画応募83件の中から最終段階であるLEAP Stageに進出しました．
 
 Interverse Virtual Reality Challenge(IVRC)は1993年から続く，学生を中心としたチームでインタラクティブ作品を企画・制作するチャレンジです．
 
