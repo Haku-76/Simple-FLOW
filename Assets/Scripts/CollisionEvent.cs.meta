@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be95cc61bf42a1c49bcfc85e1a2f9fe3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PingpongRacket: {instanceID: 0}
+  - Table: {instanceID: 0}
+  - Floor: {instanceID: 0}
+  - Respawnpoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
